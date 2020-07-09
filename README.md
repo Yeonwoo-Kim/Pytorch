@@ -31,7 +31,7 @@
   
   - [data source](https://www.data.go.kr/data/15053866/fileData.do)
   
-  - [source code]()
+  - [source code](https://github.com/Yeonwoo-Kim/Pytorch/blob/master/script/water_quality.ipynb)
 
 * ### peak wave height
   - This is the maximum significance crest prediction problem using the observations of the Ocean Data Buoy report.<br>
@@ -50,7 +50,7 @@
     
   - [data source](https://data.kma.go.kr/data/sea/selectBuoyRltmList.do?pgmNo=52&tabNo=1)
   
-  - [source code]()
+  - [source code](https://github.com/Yeonwoo-Kim/Pytorch/blob/master/script/peak_wave_height.ipynb)
 
 * ### sea ice extent
 
