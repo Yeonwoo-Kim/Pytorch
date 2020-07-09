@@ -77,9 +77,14 @@
   - [source code](https://github.com/Yeonwoo-Kim/Pytorch/blob/master/script/Boston_housing.ipynb)
 
 
-* ### Animal Classification
-
-  - [source code]()
+* ### Soil pollution
+  - Predicting soil pollution levels<br>
+    If the levels of Cd, Cu, As, Hg, Pb, Zn and Ni, the major soil pollutants in industrial complexes and factory areas, are above their respective reference averages, the difference shall be considered as pollution levels and the total pollution levels in those areas will be predicted.
+    
+  - <b>Data summary</b><br>
+  Area,Cd,Cu,As,Hg,Pb,Zn,Ni,pollution level
+      
+  - [source code](https://github.com/Yeonwoo-Kim/Pytorch/blob/master/script/oil_pollution.ipynb)
 
 * ### Danyang Water quality of sewage
   - Estimate the number of E. coli in water quality using discharge water data at Danyang Sewage Treatment Plant.<br>
