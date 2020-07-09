@@ -24,7 +24,7 @@
 
   - Every summer, let's look at the magnitude of sea ice due to the ongoing emissions of carbon dioxide and the unusual factors of carbon dioxide, the gases that contribute to       the greenhouse effect. There are many factors in carbon dioxide emissions. We've talked about one of the interesting cases that. It is given from 1978 to 1919, when 2016 was     omitted, and every year there is data from January to December.
   
-  -<b>Data summary</b><br>
+  - <b>Data summary</b><br>
     year : (int64)<br>
     month : (int64)<br>
     car_reg : number of car registrations (float64)<br>
@@ -47,10 +47,11 @@
 * ### breast cancer diagnosis
 
   - <b>Data summary</b><br>
+    *The results of the test
     diagnosis(Benign tomor = 0 / Malignant tumor = 1)<br>
 
-    test results for diagnosing breast cancer<br>
-    -radius_mean,texture_mean,perimeter_mean,area_mean,smoothness_mean,compactness_mean,concavity_mean,concave,points_mean,symmetry_mean,fractal_dimension_mean,radius_se,texture_se,perimeter_se,area_se,smoothness_se,compactness_se,concavity_se,concave points_se,symmetry_se,fractal_dimension_se,radius_worst,texture_worst,perimeter_worst,area_worst,smoothness_worst,compactness_worst,concavity_worst,concave points_worst,symmetry_worst,fractal_dimension_worst
+    *test results for diagnosing breast cancer<br>
+   radius_mean,texture_mean,perimeter_mean,area_mean,smoothness_mean,compactness_mean,concavity_mean,concave,points_mean,symmetry_mean,fractal_dimension_mean,radius_se,texture_se,perimeter_se,area_se,smoothness_se,compactness_se,concavity_se,concave points_se,symmetry_se,fractal_dimension_se,radius_worst,texture_worst,perimeter_worst,area_worst,smoothness_worst,compactness_worst,concavity_worst,concave points_worst,symmetry_worst,fractal_dimension_worst
   
   - [source code](https://github.com/Yeonwoo-Kim/Pytorch/blob/master/script/breast_cancer.ipynb)
    
