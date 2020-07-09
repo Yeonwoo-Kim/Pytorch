@@ -43,11 +43,10 @@
   - [source code](https://github.com/Yeonwoo-Kim/Pytorch/blob/master/script/ice_extent.ipynb)
 
 
-
 * ### breast cancer diagnosis
 
   - <b>Data summary</b><br>
-    *The results of the test
+    *The results of the test<br>
     diagnosis(Benign tomor = 0 / Malignant tumor = 1)<br>
 
     *test results for diagnosing breast cancer<br>
@@ -57,21 +56,26 @@
    
 
 * ### Boston Housing Price
-
+  - Estimate Boston house prices by various factors
   - <b>Data summary</b><br>
+    (0) CRIM per capita crime rate by town
+    (1) ZN proportion of residential land zoned for lots over 25,000 sq.ft.
+    (2) INDUS proportion of non-retail business acres per town
+    (3) CHAS Charles River dummy variable (= 1 if tract bounds river; 0 otherwise)
+    (4) NOX nitric oxides concentration (parts per 10 million)
+    (5) RM average number of rooms per dwelling
+    (6) AGE proportion of owner-occupied units built prior to 1940
+    (7) DIS weighted distances to five Boston employment centres
+    (8) RAD index of accessibility to radial highways
+    (9) TAX full-value property-tax rate per $10,000
+    (10) PTRATIO pupil-teacher ratio by town
+    (11) B 1000(Bk - 0.63)^2 where Bk is the proportion of blacks by town
+    (12) LSTAT % lower status of the population
+    (13) MEDV Median value of owner-occupied homes in $1000's
+    (14) Price
 
-  - [source code]()
+  - [source code](https://github.com/Yeonwoo-Kim/Pytorch/blob/master/script/Boston_housing.ipynb)
 
-* ### cabbage_price
-  
-  - <b>Data summary</b><br>
-  
-  - [source code]()
-
-* ### diabetes diagnosis
-  - <b>Data summary</b><br>
-  
-  - [source code]()
 
 * ### Animal Classification
 
