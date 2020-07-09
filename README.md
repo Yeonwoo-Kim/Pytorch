@@ -1,5 +1,7 @@
 ## Data description
 
+<img src="https://user-images.githubusercontent.com/50096655/87014210-c5106600-c206-11ea-9140-c134a770cef2.gif" width="500" height="300">
+
 * ### peak wave height
   - This is the maximum significance crest prediction problem using the observations of the Ocean Data Buoy report.<br>
     The Ocean Data Buoy observes marine weather phenomena with various weather equipment at sea level.
