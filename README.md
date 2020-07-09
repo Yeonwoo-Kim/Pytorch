@@ -3,6 +3,8 @@
 * ### peak wave height
 <img src="https://user-images.githubusercontent.com/50096655/87014210-c5106600-c206-11ea-9140-c134a770cef2.gif" width="600" height="400">
 
+  - Predict maximum significance wave height
+
   - This is the maximum significance crest prediction problem using the observations of the Ocean Data Buoy report.<br>
     The Ocean Data Buoy observes marine weather phenomena with various weather equipment at sea level.
     Depending on the shape, there are two types, ship type and disk type, and Pagoe and Paegui measure and analyze the moving acceleration of the buoyant body at sea level.
@@ -23,7 +25,8 @@
 
 * ### sea ice extent
   <img src="https://user-images.githubusercontent.com/50096655/87002337-562a1180-c1f4-11ea-98b5-545b38489298.gif" width="300" height ="300">
-
+  - Predicts the magnitude of sea ice due to carbon dioxide emissions and unusual factors of carbon dioxide.
+  
   - Every summer, let's look at the magnitude of sea ice due to the ongoing emissions of carbon dioxide and the unusual factors of carbon dioxide, the gases that contribute to       the greenhouse effect. There are many factors in carbon dioxide emissions. We've talked about one of the interesting cases that. It is given from 1978 to 1919, when 2016 was     omitted, and every year there is data from January to December.
   
   - <b>Data summary</b><br>
@@ -46,7 +49,8 @@
 
 
 * ### breast cancer diagnosis
-
+  - Predict whether breast cancer is present based on the basis of test results.
+  
   - <b>Data summary</b><br>
     *The results of the test<br>
     diagnosis(Benign tomor = 0 / Malignant tumor = 1)<br>
