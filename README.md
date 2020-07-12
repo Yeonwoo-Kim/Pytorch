@@ -6,7 +6,7 @@
 
   - Predict maximum significance wave height
 
-  - This is the maximum significance crest prediction problem using the observations of the Ocean Data Buoy report.<br>
+  - This is the maximum significance wave height prediction problem using the observations of the Ocean Data Buoy report.<br>
     The Ocean Data Buoy observes marine weather phenomena with various weather equipment at sea level.
     Depending on the shape, there are two types, ship type and disk type, and Pagoe and Paegui measure and analyze the moving acceleration of the buoyant body at sea level.
     For the Train data, it consists of daily data from 2014 to 2018, so you can study it to predict test data.
@@ -18,7 +18,7 @@
     
   - significant wave height: The average of the crests observed during the arbitrary observation time, corresponding to one-third of the total, in the order in which the wave       heights are high.
     Maximum wave height: The largest wave height observed during the arbitrary observation time.<br>
-    Mean wave height: Mean crest of the observed wave height during the arbitrary observation time.<br>
+    Mean wave height: Mean wave height of the observed wave height during the arbitrary observation time.<br>
     
   - [data source](https://data.kma.go.kr/data/sea/selectBuoyRltmList.do?pgmNo=52&tabNo=1)
   
