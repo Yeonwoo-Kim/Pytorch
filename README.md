@@ -26,6 +26,7 @@
 
 * ### sea ice extent
   <img src="https://user-images.githubusercontent.com/50096655/87002337-562a1180-c1f4-11ea-98b5-545b38489298.gif" width="300" height ="300">
+  
   - Predicts the magnitude of sea ice due to carbon dioxide emissions and unusual factors of carbon dioxide.
   
   - Every summer, let's look at the magnitude of sea ice due to the ongoing emissions of carbon dioxide and the unusual factors of carbon dioxide, the gases that contribute to       the greenhouse effect. There are many factors in carbon dioxide emissions. We've talked about one of the interesting cases that. It is given from 1978 to 1919, when 2016 was     omitted, and every year there is data from January to December.
