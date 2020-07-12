@@ -16,7 +16,7 @@
     point, date, average wind speed (m/s), average air pressure (hPa), average relative humidity (%), average temperature (°C), average water temperature (°C), average maximum       wave height(m), average significant wave height (m), maximum wave height (m), average wave period (sec), max wave period (sec), max significant wave height(m)
     
     
-  - significant wave height: The average of the crests observed during the arbitrary observation time, corresponding to one-third of the total, in the order in which the wave       heights are high.
+  - significant wave height: The average of the crests observed during the arbitrary observation time, corresponding to one-third of the total, in the order in which the wave       heights are high.<br>
     Maximum wave height: The largest wave height observed during the arbitrary observation time.<br>
     Mean wave height: Mean wave height of the observed wave height during the arbitrary observation time.<br>
     
